@@ -1,2 +1,1 @@
-console.log("I m Sachin")
-console.log("I am good programmer")
+console.log("shfdwhfdibtv8r8yoeyrewyetoui iljvbdfh pnh ;ph")
